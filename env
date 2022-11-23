@@ -1,3 +1,0 @@
-PRIVATE_KEY = "daa2a07bfcbb2dbcac11fd309cb86d0a729b044c398baf2044dffe1f3cabc492"
-STAGING_ALCHEMY_KEY = "https://eth-goerli.g.alchemy.com/v2/rRrPyT4OzrXTLir8BJUghgxnDrTzdEDN"
-PROD_ALCHEMY_KEY = イーサリアムメインネットにデプロイする際に使用するAlchemyのURLを貼り付ける（今は何も貼り付ける必要はありません）
